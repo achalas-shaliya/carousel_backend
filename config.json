@@ -1,0 +1,9 @@
+{
+  "mongo": {
+    "uri": "mongodb://localhost:27017",
+    "database": "carousel"
+  },
+  "server": {
+    "port": 3600
+  }
+}
